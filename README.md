@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate Software Engineer - Machine Learning from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagocalderon1999&label=Profile%20views&color=0e75b6&style=flat" alt="santiagocalderon1999" /> </p>
-
 - 🔭 I’m currently working on **Quorum software as a Software Engineer while also doing some fun stuff with Machine Learning**
 
 - 🌱 I’m currently doing **a master's degree in Advanced Computing at King's College London**
