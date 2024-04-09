@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate Software Engineer - Machine Learning from Colombia</h3>
 
-- 🔭 I’m currently working on **Quorum software as a Software Engineer while also doing some fun stuff with Machine Learning**
+- 🔭 I’m currently working at **Quorum software as a Software Engineer plus some cool Machine Learning stuff**
 
 - 🌱 I’m currently doing **a master's degree in Advanced Computing at King's College London**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **santiagocalderon1999@gmail.com**
 
-- ⚡ Fun fact **I am a MASSIVE Maxwell fan**
+- ⚡ Fun fact **James Clerk Maxwell's contributions have me totally fascinated!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
