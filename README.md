@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **santiagocalderon1999@gmail.com**
 
-- ⚡ Fun fact **James Clerk Maxwell's contributions have me totally fascinated!**
+- ⚡ Fun fact: **James Clerk Maxwell is my role model**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
