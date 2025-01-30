@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate Software Engineer - Machine Learning from Colombia</h3>
 
-- 🔭 I’m currently working at **Quorum software as a Software Engineer plus some cool Machine Learning stuff**
+- 🔭 I’m currently working at **as a Software Engineer plus some cool Machine Learning stuff**
 
-- 🌱 I’m currently doing **a master's degree in Advanced Computing at King's College London**
+- 🌱 I just finished **a master's degree in Advanced Computing at King's College London**
 
 - 💬 Ask me about **Mathematics and ML**
 
