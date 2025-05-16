@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Engineer - Machine Learning from Colombia</h3>
 
 - 🔭 I’m currently working at **as a Software Engineer plus some cool Machine Learning / AI stuff**
-- 
+
 - 👨‍💻 All of my info is available at [https://santiago-calderon-pena.github.io/](https://santiago-calderon-pena.github.io/)
-- 
+
 - 🌱 I just finished **a master's degree in Advanced Computing at King's College London**
 
 - 💬 Ask me about **Mathematics and ML**
