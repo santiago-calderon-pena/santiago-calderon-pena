@@ -13,6 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://santiago-calderon-pena.github.io/" target="_blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="santiago-calderon-pena.github.io" height="30" width="40" />
+  </a>
 <a href="https://linkedin.com/in/santiagocalderon1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagocalderon1999" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ozymandias_sc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ozymandias_sc" height="30" width="40" /></a>
 </p>
